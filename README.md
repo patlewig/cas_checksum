@@ -1,7 +1,7 @@
 cas_wip
 ==============================
 
-A short description of the project.
+Odds and sods manipulations associated with CAS numbers.
 
 Project Organization
 ------------
